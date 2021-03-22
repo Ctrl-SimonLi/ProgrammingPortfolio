@@ -26,4 +26,4 @@ Screenshot of the program:
 
 
 ![etchasketch](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/etch-s-sketchsc.png)
-[]()
+[etchasketch](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/src/etch_a_sketch.pde)
