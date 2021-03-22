@@ -12,8 +12,8 @@ An OOP Space Shooter game made in Processing. Made in Winter 2020
 
 Screenshot of the game:
 ![SpaceGame](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/SpaceGame.png)
-Download the Project here:
-[SpaceGame](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/SpaceGameFinal)
+Download the Project 
+[here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/SpaceGameFinal)
 
 
 #### Etch-a-sketch
@@ -27,8 +27,8 @@ Screenshot of the program:
 
 ![etchasketch](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/etch-s-sketchsc.png)
 
-Download the Project here:
-[etchasketch](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/src/etch_a_sketch.pde)
+Download the Project 
+[here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/src/etch_a_sketch.pde)
 
 #### Screensaver
 
@@ -38,6 +38,6 @@ Screenshot of the program:
 
 ![screensaver](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/Screensaver.png)
 
-Download the program here: 
-[](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/Screensaver)
+Download the program 
+[here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/Screensaver)
 
