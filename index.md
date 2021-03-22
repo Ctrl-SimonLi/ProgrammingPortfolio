@@ -5,6 +5,6 @@
 ### SpaceGame
 An OOP Space Shooter game made in Processing. Made in Winter 2020
 
-![SpaceGame]()
+![SpaceGame](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/SpaceGame.pnghttps://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/SpaceGame.png)
 
 Link to source code.
