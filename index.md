@@ -23,5 +23,7 @@ Cute and simple drawing tool.
 -note-: This program uses the number pad as its controls. You are able to use the number row, but it may be too confusing.
 
 Screenshot of the program:
+
+
 ![etchasketch](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/etch-s-sketchsc.png)
 []()
