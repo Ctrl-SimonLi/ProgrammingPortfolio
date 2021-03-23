@@ -1,2 +1,2 @@
-# ProgrammingPortfolioB4
-2021 Programming Portfolio for Simon Li
+# ProgrammingPortfolio
+A collection of programming projects that I have worked on.
