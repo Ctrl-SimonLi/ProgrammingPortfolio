@@ -12,6 +12,7 @@ An OOP Space Shooter game made in Processing. Made in Winter 2020
 
 Screenshot of the game:
 ![SpaceGame](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/SpaceGame.png)
+
 Download the Project 
 [here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/SpaceGameFinal)
 
