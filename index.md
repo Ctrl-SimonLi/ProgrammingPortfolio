@@ -10,6 +10,9 @@ Contact me at li77.simon@gmail.com
 
 ### Proccessing
 
+All of the following programs were created using the Processing application. Click here if you have not downloaded the 
+![Processing App](https://processing.org/download/).
+
 #### SpaceGame
 
 An OOP Space Shooter game made in Processing. Made in Winter 2020
@@ -22,13 +25,13 @@ Screenshot of the game:
 Download the Project 
 [here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/SpaceGameFinal)
 
-#### SpaceGame
+#### Calculator
 
-An OOP Space Shooter game made in Processing. Made in Winter 2020
+A simple calculator. First look into classes and OOP within the Java environment.
 
--note-: You may have to download the Proccessing Sound Library if you haven't already.
 
-Screenshot of the game:
+Screenshot of the program:
+
 ![Calculator](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/CalculatorEx.png)
 
 Download the Project 
