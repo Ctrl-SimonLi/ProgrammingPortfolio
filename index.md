@@ -22,6 +22,17 @@ Screenshot of the game:
 Download the Project 
 [here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/SpaceGameFinal)
 
+#### SpaceGame
+
+An OOP Space Shooter game made in Processing. Made in Winter 2020
+
+-note-: You may have to download the Proccessing Sound Library if you haven't already.
+
+Screenshot of the game:
+![Calculator](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/CalculatorEx.png)
+
+Download the Project 
+[here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/Calculator)
 
 #### Etch-a-sketch
 
