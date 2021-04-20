@@ -15,7 +15,7 @@ All of the following programs were created using the Processing application. Cli
 
 #### SpaceGame
 
-An OOP Space Shooter game made in Processing. Made in Winter 2020
+An OOP Space Shooter game made in Processing. Deeper understanding of OOP and classes. OOP used extensively within this application.
 
 -note-: You may have to download the Proccessing Sound Library if you haven't already.
 
@@ -39,7 +39,7 @@ Download the Project
 
 #### Etch-a-sketch
 
-Cute and simple drawing tool.
+Cute and simple drawing tool. First look at user-input.
 
 -note-: This program uses the number pad as its controls. You are able to use the number row, but it may be too confusing.
 
@@ -53,7 +53,7 @@ Download the Project
 
 #### Screensaver
 
-Screensaver application.
+Screensaver application. First look into loops and random.
 
 Screenshot of the program:
 
