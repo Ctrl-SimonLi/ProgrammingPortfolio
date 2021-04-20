@@ -1,5 +1,11 @@
-# Welcome to my Page!
-This is a list of programs that I have made.
+# Programming Portfolio I
+Here are a list of programs I have made while taking the Programming I course.
+## About Me
+Simon Li
+
+Contact me at li77.simon@gmail.com
+
+
 ## School Projects
 
 ### Proccessing
