@@ -11,7 +11,7 @@ Contact me at li77.simon@gmail.com
 ### Proccessing
 
 All of the following programs were created using the Processing application. Click here if you have not downloaded the 
-![Processing App](https://processing.org/download/).
+[Processing App](https://processing.org/download/).
 
 #### SpaceGame
 
