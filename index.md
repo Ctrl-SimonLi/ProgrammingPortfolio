@@ -43,7 +43,7 @@ Screenshot of the game:
 
 Program Diagram:
 
-![QuestionsD](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/SGdiagram.pdf)
+![SpaceGameD](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/SGdiagram.pdf)
 
 
 Download the Project 
@@ -57,6 +57,10 @@ A simple calculator. First look into classes and OOP within the Java environment
 Screenshot of the program:
 
 ![Calculator](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/CalculatorEx.png)
+
+Program Diagram:
+
+![CalculatorD](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/CLdiagram.pdf)
 
 Download the Project 
 [here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/Calculator)
