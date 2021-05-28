@@ -8,7 +8,22 @@ Contact me at li77.simon@gmail.com
 
 ## School Projects
 
+### Java
+
+#### Thought-Provoking Questions
+
+A first look into Sequential and Random Access Memories. Asks random question and outputs user response and question on a .txt file.
+
+Screenshot of the program:
+
+![Questions](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/Screenshot%202021-05-27%20151551.png)
+
+Download the program 
+[here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/src/QuestionsAndAnswers.zip)
+
 ### Proccessing
+
+All projects contain executables in windows, mac, and linux. If there is no mac executable folder showing, then the program was originally exported through mac.
 
 All of the following programs were created using the Processing application. Click here if you have not downloaded the 
 [Processing App](https://processing.org/download/).
@@ -61,15 +76,4 @@ Screenshot of the program:
 
 Download the program 
 [here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/Screensaver)
-
-#### Thought-Provoking Questions
-
-A first look into Sequential and Random Access Memories. Asks random question and outputs user response and question on a .txt file.
-
-Screenshot of the program:
-
-![Questions](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/Screenshot%202021-05-27%20151551.png)
-
-Download the program 
-[here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/src/QuestionsAndAnswers.zip)
 
