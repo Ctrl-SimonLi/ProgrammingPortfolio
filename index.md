@@ -64,7 +64,7 @@ Screenshot of the program:
 ![etchasketch](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/etch-s-sketchsc.png)
 
 Download the Project 
-[here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/src/etch_a_sketch.pde)
+[here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/tree/gh-pages/src/etch_a_sketch)
 
 #### Screensaver
 
