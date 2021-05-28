@@ -91,6 +91,11 @@ Screenshot of the program:
 
 ![screensaver](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/Screensaver.png)
 
+Program Diagram:
+
+![ScreenD](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/SSdiagram.pdf)
+
+
 Download the program 
 [here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/Screensaver)
 
