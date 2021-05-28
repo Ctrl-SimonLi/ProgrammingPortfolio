@@ -12,7 +12,11 @@ Contact me at li77.simon@gmail.com
 
 My final project for this course was a Pong pong game with a twist.
 
-Link to the repository 
+![Screenshot](https://github.com/Ctrl-SimonLi/ProgrammingIFinal/blob/main/images/Screenshot%202021-05-28%20141320.png)
+![Screenshot](https://github.com/Ctrl-SimonLi/ProgrammingIFinal/blob/main/images/Screenshot%202021-05-28%20141340.png)
+![Screenshot](https://github.com/Ctrl-SimonLi/ProgrammingIFinal/blob/main/images/Screenshot%202021-05-28%20141400.png)
+
+More details and a download for the project
 [here](https://github.com/Ctrl-SimonLi/ProgrammingIFinal)
 
 ### Java
