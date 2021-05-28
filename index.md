@@ -18,6 +18,10 @@ Screenshot of the program:
 
 ![Questions](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/Screenshot%202021-05-27%20151551.png)
 
+Program Diagram:
+
+![QuestionsD](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/QNAdiagram.pdf)
+
 Download the program 
 [here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/tree/gh-pages/src/QuestionsAndAnswer)
 
