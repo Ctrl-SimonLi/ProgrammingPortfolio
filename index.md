@@ -8,6 +8,8 @@ Contact me at li77.simon@gmail.com
 
 ## School Projects
 
+### Final Project
+
 ### Java
 
 #### Thought-Provoking Questions
