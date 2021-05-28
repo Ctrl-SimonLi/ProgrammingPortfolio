@@ -41,6 +41,11 @@ An OOP Space Shooter game made in Processing. Deeper understanding of OOP and cl
 Screenshot of the game:
 ![SpaceGame](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/SpaceGame.png)
 
+Program Diagram:
+
+![QuestionsD](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/SGdiagram.pdf)
+
+
 Download the Project 
 [here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/tree/gh-pages/src/SpaceGameFinal)
 
