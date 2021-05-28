@@ -10,6 +10,11 @@ Contact me at li77.simon@gmail.com
 
 ### Final Project
 
+My final project for this course was a Pong pong game with a twist.
+
+Link to the repository 
+[here](https://github.com/Ctrl-SimonLi/ProgrammingIFinal)
+
 ### Java
 
 #### Thought-Provoking Questions
