@@ -73,8 +73,12 @@ Cute and simple drawing tool. First look at user-input.
 
 Screenshot of the program:
 
-
 ![etchasketch](https://github.com/Ctrl-SimonLi/ProgrammingPortfolioB4/blob/gh-pages/images/etch-s-sketchsc.png)
+
+Program Diagram:
+
+![EtchD](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/ESdiagram.pdf)
+
 
 Download the Project 
 [here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/tree/gh-pages/src/etch_a_sketch)
