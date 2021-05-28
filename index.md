@@ -19,7 +19,7 @@ Screenshot of the program:
 ![Questions](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/images/Screenshot%202021-05-27%20151551.png)
 
 Download the program 
-[here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/blob/gh-pages/src/QuestionsAndAnswers.zip)
+[here](https://github.com/Ctrl-SimonLi/ProgrammingPortfolio/tree/gh-pages/src/QuestionsAndAnswer)
 
 ### Proccessing
 
